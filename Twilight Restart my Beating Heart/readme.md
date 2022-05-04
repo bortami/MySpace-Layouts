@@ -1,11 +1,18 @@
 ## Publication Details
 Designer	hyena017
+
 Submitted on	Jun 11, 2008
+
 Page views	17,903
+
 Favorites	93
+
 Comments	4
+
 Reviewer	kreios
+
 Approved on	Jun 11, 2008
+
 [Layout Instructions URL](https://www.createblog.com/myspace-layouts/28308-twilight-restarting-of-my-heart/)
 
 [Preview URL](https://www.createblog.com/myspace-layouts/28308-twilight-restarting-of-my-heart/preview/)
@@ -26,8 +33,8 @@ THIS IS A DIV OVERLAY LAYOUT, HTML KNOWLEDGE REQUIRED!
 3. Copy (CTRL C) and paste (CTRL V) code to the specified fields
 
 ## Layout Code
-[Copy and paste to About Me](https://github.com/mtabor66/MySpace-Layouts/blob/main/Twilight%20Meadow/aboutme.html)
+[Copy and paste to About Me](https://github.com/mtabor66/MySpace-Layouts/blob/main/Twilight%20Restart%20my%20Beating%20Heart/aboutme.html)
 
 ## Layout Code
-[Copy and paste to I'd Like to Meet](https://github.com/mtabor66/MySpace-Layouts/blob/main/Twilight%20Meadow/idliketomeet.html)
+[Copy and paste to I'd Like to Meet](https://github.com/mtabor66/MySpace-Layouts/blob/main/Twilight%20Restart%20my%20Beating%20Heart/idliketomeet.html)
 
