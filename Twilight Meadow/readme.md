@@ -4,7 +4,7 @@ Submitted on	Jun 11, 2008
 Page views	19,097
 Favorites	132
 Comments	5
-Reviewer	Synesthesia View profile
+Reviewer	Synesthesia
 Approved on	Jun 11, 2008
 [Layout Instructions URL](https://www.createblog.com/myspace-layouts/28307-twilight-meadow/)
 
