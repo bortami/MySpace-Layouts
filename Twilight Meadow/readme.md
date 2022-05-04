@@ -26,8 +26,8 @@ THIS IS A DIV OVERLAY LAYOUT, HTML KNOWLEDGE REQUIRED!
 3. Copy (CTRL C) and paste (CTRL V) code to the specified fields
 
 ## Layout Code
-[Copy and paste to About Me](https://github.com/mtabor66/MySpace-Layouts/blob/main/Twiipse/aboutme.html)
+[Copy and paste to About Me](https://github.com/mtabor66/MySpace-Layouts/blob/main/Twilight%20Meadow/aboutme.html)
 
 ## Layout Code
-[Copy and paste to I'd Like to Meet](https://github.com/mtabor66/MySpace-Layouts/blob/main/Twiipse/idliketomeet.html)
+[Copy and paste to I'd Like to Meet](https://github.com/mtabor66/MySpace-Layouts/blob/main/Twilight%20Meadow/idliketomeet.html)
 
