@@ -1,2 +1,2 @@
 # MySpace-Layouts
-This was my VERY FIRST Myspace Layouts! Thanks to the wonderful people of creatblog.com for maintaining their database all of these years.
+This were my VERY FIRST Myspace Layouts! Thanks to the wonderful people of creatblog.com for maintaining their database all of these years.
