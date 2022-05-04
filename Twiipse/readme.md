@@ -10,6 +10,8 @@ Approved on	May 18,
 
 [Preview URL](https://www.createblog.com/myspace-layouts/27706-twiipse/preview/)
 
+![Preview Image](image.jpg "Preview Image!")
+
 ## Designer's Comments
 Look carefully for specific instructions
 
